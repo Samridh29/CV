@@ -2,6 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string></string>
+	</array>
+	<key>font-5</key>
+	<string></string>
+	<key>font-4</key>
+	<string>Poppins-SemiBoldItalic.ttf</string>
+	<key>font-3</key>
+	<string>Poppins-SemiBold.ttf</string>
+	<key>font-2</key>
+	<string>Poppins-Italic.ttf</string>
+	<key>font-1</key>
+	<string>Poppins-Regular.ttf</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
